@@ -3,6 +3,8 @@
 ## Table of Contents: Elizar - Build your own X
 - Status: Ongoing
 - [Source:](https://shadowsilver07.github.io/Elizar---Build-your-own-X/)
+- - Youtube
+  - Github
 To be continued.
 
 
