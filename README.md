@@ -1,7 +1,7 @@
 [![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
-## Table of Contents: Build your own X
-Sample -- To be continued.
+## Table of Contents: Elizar - Build your own X
+To be continued.
 
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
