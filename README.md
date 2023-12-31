@@ -1,7 +1,7 @@
 [![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ## Table of Contents: Elizar - Build your own X
-- [Site:](https://shadowsilver07.github.io/Sample/)
+- [Site:](https://shadowsilver07.github.io/Elizar---Build-your-own-X/)
 To be continued.
 
 
