@@ -5,7 +5,11 @@
 - [Source:](https://shadowsilver07.github.io/Elizar---Build-your-own-X/)
   - Youtube
   - Github
-
+Requirements
+Next Release:
+Dashboard
+Login
+Database
 
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
