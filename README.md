@@ -24,10 +24,10 @@ It's a great way to learn.
 #### Image Slider
 - [Image Slider](https://www.youtube.com/watch?v=Y3s0_Vy6Uy0&t=738s) - HTML CSS and JavaScript - Coming Soon
 - [Image Voyage Slider](https://www.youtube.com/watch?v=tl1xlnqHiYs) - HTML, CSS and GSAP - Coming Soon
-- [Create A Slider Crazy Effects](https://www.youtube.com/watch?v=j7GG009J9uc) - HTML CSS And Javascript - Coming Soon
-- [Create A Website With Auto Image SlideShow](https://www.youtube.com/watch?v=_ABKth7CMh0) - HTML CSS And Javascript - Coming Soon
-- [Create Expanding Image Gallery-Expandable Card on Hover](https://www.youtube.com/watch?v=3w-2nIZPMOY) - HTML CSS And Javascript - Coming Soon
-- [Responsive Image Slider](https://www.youtube.com/watch?v=iBcjzaOvE94) - HTML CSS And Javascript - Coming Soon
+- [Create A Slider Crazy Effects](https://www.youtube.com/watch?v=j7GG009J9uc) - HTML CSS and Javascript - Coming Soon
+- [Create A Website With Auto Image SlideShow](https://www.youtube.com/watch?v=_ABKth7CMh0) - HTML CSS and Javascript - Coming Soon
+- [Create Expanding Image Gallery-Expandable Card on Hover](https://www.youtube.com/watch?v=3w-2nIZPMOY) - HTML CSS and Javascript - Coming Soon
+- [Responsive Image Slider](https://www.youtube.com/watch?v=iBcjzaOvE94) - HTML CSS and Javascript - Coming Soon
 #### Gaming Website
 - [Gaming Website Design Using](https://www.youtube.com/watch?v=aSAJZM40szc) - HTML CSS and JavaScript - Coming Soon
 
