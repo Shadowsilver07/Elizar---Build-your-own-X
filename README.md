@@ -34,7 +34,7 @@ It's a great way to learn.
 - [Restaurant Website](https://www.youtube.com/watch?v=CjVGp5kGHxA) - HTML CSS and JavaScript - Coming Soon
 
 #### Travel and Tour
-- [Tour Travel Agency Website Design](https://www.youtube.com/watch?v=koQE3Q3vtQ8) - Using HTML / CSS / JAVASCRIPT
+- [Tour Travel Agency Website Design](https://www.youtube.com/watch?v=koQE3Q3vtQ8) -  HTML CSS and JavaScript - Coming Soon
 
 #### Navigation Bar
 - [Responsive Navigation Bar](https://www.youtube.com/watch?v=U8smiWQ8Seg) - HTML CSS and JavaScript - Coming Soon
