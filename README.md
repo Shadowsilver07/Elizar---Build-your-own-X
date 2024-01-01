@@ -71,3 +71,4 @@ It's a great way to learn.
 #### Other Projects
 - [50Projects50Days - How to create Expanding Cards | Day 1](https://www.youtube.com/watch?v=69FkUGpw3ok&list=PLX7mEGqtfnSqGdETTWURHZFWaRySSFJIz&index=3) - HTML CSS and JavaScript - Coming Soon
 - [Convert a 2D image to a perfect 3D character model - Is it really AI?](https://www.youtube.com/watch?v=gJ8Lg3KYkbI) - Coming Soon
+- [Analog Clock](https://www.youtube.com/watch?v=g_ticKFCOWU) - HTML CSS and JavaScript - Coming Soon
