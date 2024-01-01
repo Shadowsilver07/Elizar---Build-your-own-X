@@ -29,5 +29,8 @@ It's a great way to learn.
 #### Gaming Website
 - [Gaming Website Design Using](https://www.youtube.com/watch?v=aSAJZM40szc) - HTML CSS and JavaScript - Coming Soon
 
+#### Restaurant
+- [Restaurant Website](https://www.youtube.com/watch?v=CjVGp5kGHxA) - HTML CSS and JavaScript - Coming Soon
+
 #### Other Projects
 - [50Projects50Days - How to create Expanding Cards | Day 1](https://www.youtube.com/watch?v=69FkUGpw3ok&list=PLX7mEGqtfnSqGdETTWURHZFWaRySSFJIz&index=3) - HTML CSS and JavaScript - Coming Soon
