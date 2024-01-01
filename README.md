@@ -58,7 +58,11 @@ It's a great way to learn.
 #### Education
 - [React Educational Website Design Tutorial in ReactJs | React.js Tutorial for Beginners](https://www.youtube.com/watch?v=KkQATIXBY5w) -  HTML CSSJavaScript React - Coming Soon
 - [All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 1](https://www.youtube.com/watch?v=kf6yyxMck8Y) - MERN - Coming Soon
-  
+
+#### Movies
+- [Responsive React Movies App With API](https://www.youtube.com/watch?v=ntYXj9W1Ez8) - ReactJS - Coming Soon
+- [Build & Deploy Movix Single Page Web Application with React & Redux Full Course](https://www.youtube.com/watch?v=VLgVw2NEqCM) - HTML CSS JavaScript React and Redux - Coming Soon
+- 
 #### Figma
 - [From Figma to a 3D Web Page with Dora Plugin - No code Tutorial](https://www.youtube.com/watch?v=slentvTk3gY&t=12s) - Coming Soon
 - [Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!) | Zero To Mastery](https://www.youtube.com/watch?v=cKZEgtQUxlU) - Coming Soon
@@ -66,5 +70,4 @@ It's a great way to learn.
 
 #### Other Projects
 - [50Projects50Days - How to create Expanding Cards | Day 1](https://www.youtube.com/watch?v=69FkUGpw3ok&list=PLX7mEGqtfnSqGdETTWURHZFWaRySSFJIz&index=3) - HTML CSS and JavaScript - Coming Soon
-- [Build & Deploy Movix Single Page Web Application with React & Redux Full Course](https://www.youtube.com/watch?v=VLgVw2NEqCM) - HTML CSS JavaScript React and Redux - Coming Soon
 - [Convert a 2D image to a perfect 3D character model - Is it really AI?](https://www.youtube.com/watch?v=gJ8Lg3KYkbI) - Coming Soon
