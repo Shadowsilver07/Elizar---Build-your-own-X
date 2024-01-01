@@ -23,6 +23,9 @@ It's a great way to learn.
 - [Age Calculator](https://www.youtube.com/watch?v=lBmnB_EqupU) - Coming Soon
 - [3D Portfolio Website](https://www.youtube.com/watch?v=zrBVFGlnyA8) -  HTML CSS and Javascript - Coming Soon
 - Credit Card Design](https://www.youtube.com/watch?v=3i9H7Od3h4c) - HTML and CSS - Coming Soon
+
+#### Portfolio
+- [Animated PORTFOLIO Website Template - Personal Website with Typing Animation](https://www.youtube.com/watch?v=YfmYUtGOaTg) -  HTML CSS and Javascript - Coming Soon
   
 #### Image Slider
 - [Image Slider](https://www.youtube.com/watch?v=Y3s0_Vy6Uy0&t=738s) - HTML CSS and JavaScript - Coming Soon
