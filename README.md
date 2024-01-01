@@ -39,6 +39,9 @@ It's a great way to learn.
 #### Restaurant
 - [Restaurant Website](https://www.youtube.com/watch?v=CjVGp5kGHxA) - HTML CSS and JavaScript - Coming Soon
 
+#### Coffee Shop
+- [Black Coffee Shop Website Design](https://www.youtube.com/watch?v=Y0n1fr3PKzQ) - HTML CSS - Coming Soon
+  
 #### Travel and Tour
 - [Tour Travel Agency Website Design](https://www.youtube.com/watch?v=koQE3Q3vtQ8) -  HTML CSS and JavaScript - Coming Soon
 - [Master Creating A Travel Agency Website Design ](https://www.youtube.com/watch?v=NAoSgR7KhhI) - HTML CSS and JavaScript - Coming Soon
