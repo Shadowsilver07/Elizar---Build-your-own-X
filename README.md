@@ -41,7 +41,11 @@ It's a great way to learn.
 
 #### Travel and Tour
 - [Tour Travel Agency Website Design](https://www.youtube.com/watch?v=koQE3Q3vtQ8) -  HTML CSS and JavaScript - Coming Soon
+- [Master Creating A Travel Agency Website Design ](https://www.youtube.com/watch?v=NAoSgR7KhhI) - HTML CSS and JavaScript - Coming Soon
 
+#### Blog
+- [Create A Blog Journal Website](https://www.youtube.com/watch?v=fW7tGwgnFlE) - HTML CSS and JavaScript - Coming Soon
+  
 #### Navigation Bar
 - [Responsive Navigation Bar](https://www.youtube.com/watch?v=U8smiWQ8Seg) - HTML CSS and JavaScript - Coming Soon
 
