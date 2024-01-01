@@ -20,4 +20,4 @@ It's a great way to learn.
 
 - [Age Calculator](https://www.youtube.com/watch?v=lBmnB_EqupU) - Coming Soon
 - [3D Portfolio Website](https://www.youtube.com/watch?v=zrBVFGlnyA8) -  HTML CSS & Javascript - Coming Soon
-- [Image Slider](https://www.youtube.com/watch?v=Y3s0_Vy6Uy0&t=738s) - HTML CSS and JavaScript - Coming Soon
+- [Image Slider](https://www.youtube.com/watch?v=Y3s0_Vy6Uy0&t=738s) - HTML CSS & JavaScript - Coming Soon
