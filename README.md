@@ -5,6 +5,7 @@
 - [Source:](https://shadowsilver07.github.io/Elizar---Build-your-own-X/)
   - Youtube
   - Github
+  - [Learn Web Development FREE and Actually Get Hired](youtube.com/watch?v=14-xBLhZ4AE) - Next
 - Requirements
   - Next Release:
     - Dashboard
@@ -47,7 +48,7 @@ It's a great way to learn.
 #### Education
 - [React Educational Website Design Tutorial in ReactJs | React.js Tutorial for Beginners](https://www.youtube.com/watch?v=KkQATIXBY5w) -  HTML CSSJavaScript React - Coming Soon
 - [All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 1](https://www.youtube.com/watch?v=kf6yyxMck8Y) - MERN - Coming Soon
-- 
+  
 #### Figma
 - [From Figma to a 3D Web Page with Dora Plugin - No code Tutorial](https://www.youtube.com/watch?v=slentvTk3gY&t=12s) - Coming Soon
 - [Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!) | Zero To Mastery](https://www.youtube.com/watch?v=cKZEgtQUxlU) - Coming Soon
