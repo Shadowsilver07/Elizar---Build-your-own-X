@@ -17,10 +17,12 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 > _What I cannot create, I do not understand — Richard Feynman._
 
 It's a great way to learn.
+
 #### Projects
 - [Age Calculator](https://www.youtube.com/watch?v=lBmnB_EqupU) - Coming Soon
 - [3D Portfolio Website](https://www.youtube.com/watch?v=zrBVFGlnyA8) -  HTML CSS and Javascript - Coming Soon
 - Credit Card Design](https://www.youtube.com/watch?v=3i9H7Od3h4c) - HTML and CSS - Coming Soon
+  
 #### Image Slider
 - [Image Slider](https://www.youtube.com/watch?v=Y3s0_Vy6Uy0&t=738s) - HTML CSS and JavaScript - Coming Soon
 - [Image Voyage Slider](https://www.youtube.com/watch?v=tl1xlnqHiYs) - HTML, CSS and GSAP - Coming Soon
@@ -28,6 +30,8 @@ It's a great way to learn.
 - [Create A Website With Auto Image SlideShow](https://www.youtube.com/watch?v=_ABKth7CMh0) - HTML CSS and Javascript - Coming Soon
 - [Create Expanding Image Gallery-Expandable Card on Hover](https://www.youtube.com/watch?v=3w-2nIZPMOY) - HTML CSS and Javascript - Coming Soon
 - [Responsive Image Slider](https://www.youtube.com/watch?v=iBcjzaOvE94) - HTML CSS and Javascript - Coming Soon
+- [Timed Cards Carousel Slider](https://www.youtube.com/watch?v=A1E3sYUOQ5o) - HTML CSS and Javascript - Coming Soon
+  
 #### Gaming Website
 - [Gaming Website Design Using](https://www.youtube.com/watch?v=aSAJZM40szc) - HTML CSS and JavaScript - Coming Soon
 
@@ -40,6 +44,16 @@ It's a great way to learn.
 #### Navigation Bar
 - [Responsive Navigation Bar](https://www.youtube.com/watch?v=U8smiWQ8Seg) - HTML CSS and JavaScript - Coming Soon
 
+#### Education
+- [React Educational Website Design Tutorial in ReactJs | React.js Tutorial for Beginners](https://www.youtube.com/watch?v=KkQATIXBY5w) -  HTML CSSJavaScript React - Coming Soon
+- [All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 1](https://www.youtube.com/watch?v=kf6yyxMck8Y) - MERN - Coming Soon
+- 
+#### Figma
+- [From Figma to a 3D Web Page with Dora Plugin - No code Tutorial](https://www.youtube.com/watch?v=slentvTk3gY&t=12s) - Coming Soon
+- [Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!) | Zero To Mastery](https://www.youtube.com/watch?v=cKZEgtQUxlU) - Coming Soon
+- [Create a Button With a HOVER Functionality in 128 SECONDS (Figma Tutorial)](https://www.youtube.com/watch?v=AHBEpMD2dZ0) - Coming Soon
+
 #### Other Projects
 - [50Projects50Days - How to create Expanding Cards | Day 1](https://www.youtube.com/watch?v=69FkUGpw3ok&list=PLX7mEGqtfnSqGdETTWURHZFWaRySSFJIz&index=3) - HTML CSS and JavaScript - Coming Soon
 - [Build & Deploy Movix Single Page Web Application with React & Redux Full Course](https://www.youtube.com/watch?v=VLgVw2NEqCM) - HTML CSS JavaScript React and Redux - Coming Soon
+- [Convert a 2D image to a perfect 3D character model - Is it really AI?](https://www.youtube.com/watch?v=gJ8Lg3KYkbI) - Coming Soon
