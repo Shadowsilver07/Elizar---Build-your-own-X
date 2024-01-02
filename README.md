@@ -26,6 +26,15 @@ It's a great way to learn.
 
 #### Portfolio
 - [Animated PORTFOLIO Website Template - Personal Website with Typing Animation](https://www.youtube.com/watch?v=YfmYUtGOaTg) -  HTML CSS and Javascript - Coming Soon
+
+#### Search
+- [Image Search App With JavaScript API](https://www.youtube.com/watch?v=oaliV2Dp7WQ) - HTML CSS and Javascript - Coming Soon
+
+#### Navigation Bar
+- [Responsive Navigation Bar](https://www.youtube.com/watch?v=U8smiWQ8Seg) - HTML CSS and JavaScript - Coming Soon
+
+#### Loading Effects
+- [Stunning Loading Page Animation Effects](https://www.youtube.com/watch?v=zoHzNEc9Peo) - HTML CSS - Coming Soon
   
 #### Image Slider
 - [Image Slider](https://www.youtube.com/watch?v=Y3s0_Vy6Uy0&t=738s) - HTML CSS and JavaScript - Coming Soon
@@ -35,6 +44,7 @@ It's a great way to learn.
 - [Create Expanding Image Gallery-Expandable Card on Hover](https://www.youtube.com/watch?v=3w-2nIZPMOY) - HTML CSS and Javascript - Coming Soon
 - [Responsive Image Slider](https://www.youtube.com/watch?v=iBcjzaOvE94) - HTML CSS and Javascript - Coming Soon
 - [Timed Cards Carousel Slider](https://www.youtube.com/watch?v=A1E3sYUOQ5o) - HTML CSS and Javascript - Coming Soon
+- [Responsive Website Design | With Background Video Slider](https://www.youtube.com/watch?v=ThaIBFd387A) - HTML CSS and Javascript - Coming Soon 
   
 #### Gaming Website
 - [Gaming Website Design Using](https://www.youtube.com/watch?v=aSAJZM40szc) - HTML CSS and JavaScript - Coming Soon
@@ -49,11 +59,14 @@ It's a great way to learn.
 - [Tour Travel Agency Website Design](https://www.youtube.com/watch?v=koQE3Q3vtQ8) -  HTML CSS and JavaScript - Coming Soon
 - [Master Creating A Travel Agency Website Design ](https://www.youtube.com/watch?v=NAoSgR7KhhI) - HTML CSS and JavaScript - Coming Soon
 
+#### Photography
+-[Photographer Portfolio Website](https://www.youtube.com/watch?v=HwD1G2TCO0k) - HTML CSS - Coming Soon 
+
 #### Blog
 - [Create A Blog Journal Website](https://www.youtube.com/watch?v=fW7tGwgnFlE) - HTML CSS and JavaScript - Coming Soon
-  
-#### Navigation Bar
-- [Responsive Navigation Bar](https://www.youtube.com/watch?v=U8smiWQ8Seg) - HTML CSS and JavaScript - Coming Soon
+
+#### Job Portal
+- [MERN Stack Job Portal](https://www.youtube.com/watch?v=soeLKXaMZ6U) - React MongoDB Node Express.js and Tailwind CSS - Coming Soon
 
 #### Education
 - [React Educational Website Design Tutorial in ReactJs | React.js Tutorial for Beginners](https://www.youtube.com/watch?v=KkQATIXBY5w) -  HTML CSSJavaScript React - Coming Soon
@@ -72,3 +85,4 @@ It's a great way to learn.
 - [50Projects50Days - How to create Expanding Cards | Day 1](https://www.youtube.com/watch?v=69FkUGpw3ok&list=PLX7mEGqtfnSqGdETTWURHZFWaRySSFJIz&index=3) - HTML CSS and JavaScript - Coming Soon
 - [Convert a 2D image to a perfect 3D character model - Is it really AI?](https://www.youtube.com/watch?v=gJ8Lg3KYkbI) - Coming Soon
 - [Analog Clock](https://www.youtube.com/watch?v=g_ticKFCOWU) - HTML CSS and JavaScript - Coming Soon
+- [Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL](https://www.youtube.com/watch?v=a02JAryRPVU) - Next.js 14 React Prisma Tailwind and MySQL - Coming Soon
