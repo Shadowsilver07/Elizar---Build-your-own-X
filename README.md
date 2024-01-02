@@ -26,6 +26,8 @@ It's a great way to learn.
 
 #### Portfolio
 - [Animated PORTFOLIO Website Template - Personal Website with Typing Animation](https://www.youtube.com/watch?v=YfmYUtGOaTg) -  HTML CSS and Javascript - Coming Soon
+- [Personal Portfolio Website](https://www.youtube.com/watch?v=leiW9-1ONc4) - HTML CSS - Coming Soon
+- [NextJs Portfolio Tutorial - Build a Responsive Portfolio Website - Advanced Animations](https://www.youtube.com/watch?v=Kb1f5bvF6f4) - NextJs Portfolio - Coming Soon
 
 #### Search
 - [Image Search App With JavaScript API](https://www.youtube.com/watch?v=oaliV2Dp7WQ) - HTML CSS and Javascript - Coming Soon
@@ -72,10 +74,16 @@ It's a great way to learn.
 - [React Educational Website Design Tutorial in ReactJs | React.js Tutorial for Beginners](https://www.youtube.com/watch?v=KkQATIXBY5w) -  HTML CSSJavaScript React - Coming Soon
 - [All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 1](https://www.youtube.com/watch?v=kf6yyxMck8Y) - MERN - Coming Soon
 
+#### Bookstore
+- [Complete Responsive Online Book Store website - Build and Deploy](https://www.youtube.com/watch?v=d-XyhNQQWFw) - ReactJS and Tailwind CSS - Coming Soon
+
 #### Movies
 - [Responsive React Movies App With API](https://www.youtube.com/watch?v=ntYXj9W1Ez8) - ReactJS - Coming Soon
 - [Build & Deploy Movix Single Page Web Application with React & Redux Full Course](https://www.youtube.com/watch?v=VLgVw2NEqCM) - HTML CSS JavaScript React and Redux - Coming Soon
-- 
+
+#### Music
+- [Music Website](https://www.youtube.com/watch?v=rxM7KzBZRfE) - HTML CSS and Javascript - Coming Soon
+
 #### Figma
 - [From Figma to a 3D Web Page with Dora Plugin - No code Tutorial](https://www.youtube.com/watch?v=slentvTk3gY&t=12s) - Coming Soon
 - [Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!) | Zero To Mastery](https://www.youtube.com/watch?v=cKZEgtQUxlU) - Coming Soon
@@ -86,3 +94,4 @@ It's a great way to learn.
 - [Convert a 2D image to a perfect 3D character model - Is it really AI?](https://www.youtube.com/watch?v=gJ8Lg3KYkbI) - Coming Soon
 - [Analog Clock](https://www.youtube.com/watch?v=g_ticKFCOWU) - HTML CSS and JavaScript - Coming Soon
 - [Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL](https://www.youtube.com/watch?v=a02JAryRPVU) - Next.js 14 React Prisma Tailwind and MySQL - Coming Soon
+- [Build FullStack LinkTree-Multi user Auth & CRUD Operation](https://www.youtube.com/watch?v=m5xjlSib2ls) - MERN - Coming Soon
