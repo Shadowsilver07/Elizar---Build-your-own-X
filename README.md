@@ -22,7 +22,7 @@ It's a great way to learn.
 #### Projects
 - [Age Calculator](https://www.youtube.com/watch?v=lBmnB_EqupU) - Coming Soon
 - [3D Portfolio Website](https://www.youtube.com/watch?v=zrBVFGlnyA8) -  HTML CSS and Javascript - Coming Soon
-- Credit Card Design](https://www.youtube.com/watch?v=3i9H7Od3h4c) - HTML and CSS - Coming Soon
+- [Credit Card Design](https://www.youtube.com/watch?v=3i9H7Od3h4c) - HTML and CSS - Coming Soon
 
 #### Portfolio
 - [Animated PORTFOLIO Website Template - Personal Website with Typing Animation](https://www.youtube.com/watch?v=YfmYUtGOaTg) -  HTML CSS and Javascript - Coming Soon
@@ -62,7 +62,7 @@ It's a great way to learn.
 - [Master Creating A Travel Agency Website Design ](https://www.youtube.com/watch?v=NAoSgR7KhhI) - HTML CSS and JavaScript - Coming Soon
 
 #### Photography
--[Photographer Portfolio Website](https://www.youtube.com/watch?v=HwD1G2TCO0k) - HTML CSS - Coming Soon 
+- [Photographer Portfolio Website](https://www.youtube.com/watch?v=HwD1G2TCO0k) - HTML CSS - Coming Soon 
 
 #### Blog
 - [Create A Blog Journal Website](https://www.youtube.com/watch?v=fW7tGwgnFlE) - HTML CSS and JavaScript - Coming Soon
