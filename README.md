@@ -101,3 +101,6 @@ It's a great way to learn.
 - [Analog Clock](https://www.youtube.com/watch?v=g_ticKFCOWU) - HTML CSS and JavaScript - Coming Soon
 - [Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL](https://www.youtube.com/watch?v=a02JAryRPVU) - Next.js 14 React Prisma Tailwind and MySQL - Coming Soon
 - [Build FullStack LinkTree-Multi user Auth & CRUD Operation](https://www.youtube.com/watch?v=m5xjlSib2ls) - MERN - Coming Soon
+
+### Extra
+- [built a Chrome Extension that talks to Videos](https://www.youtube.com/shorts/ToIfwWHXddc)
