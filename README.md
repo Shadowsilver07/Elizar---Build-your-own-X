@@ -90,7 +90,7 @@ It's a great way to learn.
 #### Music
 - [Music Website](https://www.youtube.com/watch?v=rxM7KzBZRfE) - HTML CSS and Javascript - Coming Soon
 
-#### Figma
+#### Image Generation
 - [Build and Deploy a Full Stack MERN AI Image Generation App | Midjourney & DALL-E Clone](https://www.youtube.com/watch?v=EyIvuigqDoA) - MERN - Coming Soon
   
 #### Figma
