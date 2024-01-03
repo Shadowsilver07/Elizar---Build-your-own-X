@@ -91,6 +91,9 @@ It's a great way to learn.
 - [Music Website](https://www.youtube.com/watch?v=rxM7KzBZRfE) - HTML CSS and Javascript - Coming Soon
 
 #### Figma
+- [Build and Deploy a Full Stack MERN AI Image Generation App | Midjourney & DALL-E Clone](https://www.youtube.com/watch?v=EyIvuigqDoA) - MERN - Coming Soon
+  
+#### Figma
 - [From Figma to a 3D Web Page with Dora Plugin - No code Tutorial](https://www.youtube.com/watch?v=slentvTk3gY&t=12s) - Coming Soon
 - [Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!) | Zero To Mastery](https://www.youtube.com/watch?v=cKZEgtQUxlU) - Coming Soon
 - [Create a Button With a HOVER Functionality in 128 SECONDS (Figma Tutorial)](https://www.youtube.com/watch?v=AHBEpMD2dZ0) - Coming Soon
