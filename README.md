@@ -23,13 +23,15 @@ It's a great way to learn.
 - [Age Calculator](https://www.youtube.com/watch?v=lBmnB_EqupU) - Coming Soon
 - [3D Portfolio Website](https://www.youtube.com/watch?v=zrBVFGlnyA8) -  HTML CSS and Javascript - Coming Soon
 - [Credit Card Design](https://www.youtube.com/watch?v=3i9H7Od3h4c) - HTML and CSS - Coming Soon
+- [Responsive Admin Panel Tutorial](https://www.youtube.com/watch?v=K7vHoUwClaM) - HTML CSS Javascript and React - Coming Soon
 
 #### Portfolio
 - [Animated PORTFOLIO Website Template - Personal Website with Typing Animation](https://www.youtube.com/watch?v=YfmYUtGOaTg) -  HTML CSS and Javascript - Coming Soon
 - [Personal Portfolio Website](https://www.youtube.com/watch?v=leiW9-1ONc4) - HTML CSS - Coming Soon
 - [NextJs Portfolio Tutorial - Build a Responsive Portfolio Website - Advanced Animations](https://www.youtube.com/watch?v=Kb1f5bvF6f4) - NextJs Portfolio - Coming Soon
 - [Complete Responsive Personal Portfolio Website](https://www.youtube.com/watch?v=iiPBW1XwTlk) - HTML CSS and Javascript - Coming Soon
-
+- [Build A Portfolio Website](https://www.youtube.com/watch?v=Rew98iFupBM) - React.js Next.js 14 Tailwind CSS Shadcn UI - Coming Soon
+ 
 #### Search
 - [Image Search App With JavaScript API](https://www.youtube.com/watch?v=oaliV2Dp7WQ) - HTML CSS and Javascript - Coming Soon
 
@@ -74,6 +76,9 @@ It's a great way to learn.
 #### Education
 - [React Educational Website Design Tutorial in ReactJs | React.js Tutorial for Beginners](https://www.youtube.com/watch?v=KkQATIXBY5w) -  HTML CSSJavaScript React - Coming Soon
 - [All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 1](https://www.youtube.com/watch?v=kf6yyxMck8Y) - MERN - Coming Soon
+
+#### Hospital
+- [Doctor Appointment Booking App](https://www.youtube.com/watch?v=3G-8zIiGy24) - MERN - Coming Soon
 
 #### Bookstore
 - [Complete Responsive Online Book Store website - Build and Deploy](https://www.youtube.com/watch?v=d-XyhNQQWFw) - ReactJS and Tailwind CSS - Coming Soon
