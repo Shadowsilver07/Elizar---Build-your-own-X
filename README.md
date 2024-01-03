@@ -28,6 +28,7 @@ It's a great way to learn.
 - [Animated PORTFOLIO Website Template - Personal Website with Typing Animation](https://www.youtube.com/watch?v=YfmYUtGOaTg) -  HTML CSS and Javascript - Coming Soon
 - [Personal Portfolio Website](https://www.youtube.com/watch?v=leiW9-1ONc4) - HTML CSS - Coming Soon
 - [NextJs Portfolio Tutorial - Build a Responsive Portfolio Website - Advanced Animations](https://www.youtube.com/watch?v=Kb1f5bvF6f4) - NextJs Portfolio - Coming Soon
+- [Complete Responsive Personal Portfolio Website](https://www.youtube.com/watch?v=iiPBW1XwTlk) - HTML CSS and Javascript - Coming Soon
 
 #### Search
 - [Image Search App With JavaScript API](https://www.youtube.com/watch?v=oaliV2Dp7WQ) - HTML CSS and Javascript - Coming Soon
